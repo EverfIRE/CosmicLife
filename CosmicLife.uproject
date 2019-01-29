@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5CB44C10-4E3F-EE13-A226-C7AE38D9D571}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "CosmicLife",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
