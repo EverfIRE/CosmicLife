@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# Ignore VS / VS Code settings directory
+.vs
+.vscode
+
+# Ignore Binaries
+Binaries
+
+# Ignore Intermediate
+Intermediate
+
+# Ignore Saved
+Saved
